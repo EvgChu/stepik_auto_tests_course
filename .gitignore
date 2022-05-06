@@ -1,0 +1,6 @@
+/selenium_env
+/.pytest_cache
+/__pycache__
+lesson1/__pycache__
+lesson2/__pycache__
+lesson3/__pycache__
